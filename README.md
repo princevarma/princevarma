@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pinku Varma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Post Graduate Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princevarma&label=Profile%20views&color=0e75b6&style=flat" alt="princevarma" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **pinkuvarma1997@gmail.com**
 
